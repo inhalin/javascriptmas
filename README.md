@@ -1,4 +1,4 @@
-## JavaScriptmas
+## Scrimba's 24 Days of #JavaScriptmas
 
 [**`day 01~07`**](https://inhalin.github.io/challenges/javascriptmas/day01_07.html)
 **`day 08`**
