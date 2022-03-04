@@ -1,10 +1,10 @@
 ## Scrimba's 24 Days of #JavaScriptmas
 
-[**`day 01~07`**](https://inhalin.github.io/challenges/javascriptmas/day01_07.html)
+[**`day 01~07`**](./day01_07.html)
 **`day 08`**
-[**`day 09~14`**](https://inhalin.github.io/challenges/javascriptmas/day09_14.html)
-[**`day 15`**](https://inhalin.github.io/challenges/javascriptmas/day15.html)
-[**`day 16-20`**](https://inhalin.github.io/challenges/javascriptmas/day16-20.html)
+[**`day 09~14`**](./day09_14.html)
+[**`day 15`**](./day15.html)
+[**`day 16-20`**](./day16-20.html)
 **`day 23`**
 **`day 24`**
 **`rating-app`**
@@ -35,4 +35,4 @@
 - 🟢 day 22 : Extract Matrix Column
 - ⚪ day 23 : Social Media Input
 - ⚪ day 24 : Test Your Agility
-- ⚪ [Emoji Ratings](week01-rating-app/index.js)
+- ⚪ [Emoji Ratings](./rating-app/index.js)
