@@ -35,4 +35,4 @@
 - 🟢 day 22 : Extract Matrix Column
 - ⚪ day 23 : Social Media Input
 - ⚪ day 24 : Test Your Agility
-- ⚪ [Emoji Ratings](./rating-app/index.js)
+- ⚪ [Emoji Ratings](./rating-app/index.html)
