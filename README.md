@@ -4,7 +4,7 @@
 **`day 08`**
 [**`day 09~14`**](./day09_14.html)
 [**`day 15`**](./day15.html)
-[**`day 16-20`**](./day16-20.html)
+[**`day 16-20`**](./day16_22.html)
 **`day 23`**
 **`day 24`**
 **`rating-app`**
